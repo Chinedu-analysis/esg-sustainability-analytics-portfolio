@@ -47,7 +47,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 **🖥️ Query**: [2_governance_social.sql](/2_governance_social.sql)
 
 **📈 Visualization:**
-![Governance-Social Correlation](/outputs/visualization_2_governance_social.png)
+![Governance-Social Correlation](/visualizations/2_visualization_2_governance_social.png)
 
 📊 **Key Findings:**
 - **No clear correlation** between governance scores and female workforce participation
@@ -70,7 +70,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 **🖥️ Query**: [3_green_transition.sql](/3_green_transition.sql)
 
 **📈 Visualization:**
-![Green Transition Slope Chart](/outputs/visualization_3_green_transition.png)
+![Green Transition Slope Chart](/visualizations/3_visualization_3_green_transition.png)
 
 📊 **Key Findings:**
 - **Egypt:** -73% CO₂ reduction (8.42 → 2.27 tCO₂/capita)
@@ -93,7 +93,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 **🖥️ Query**: [4_carbon_risk.sql](/4_carbon_risk.sql)
 
 **📈 Visualization:**
-![Carbon Risk Heat Map](/outputs/visualization_4_carbon_risk.png)
+![Carbon Risk Heat Map](/visualizations/4_visualization_4_carbon_risk.png)
 
 📊 **Key Findings:**
 - **Czech Republic:** Highest risk (19.6 tCO₂/capita, 22% renewable)
@@ -119,8 +119,8 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 - [5b_education_governance.sql](/5b_education_governance.sql)
 
 **📈 Visualizations:**
-![Life Expectancy Matrix](/outputs/visualization_5a_life_strategic_matrix.png)
-![Education Matrix](/outputs/visualization_5b_education_strategic_matrix.png)
+![Life Expectancy Matrix](/visualizations/5a_visualization_5a_life_strategic_matrix.png)
+![Education Matrix](/visualizations/5b_visualization_5b_education_strategic_matrix.png)
 
 
 📊 **Key Findings:**
