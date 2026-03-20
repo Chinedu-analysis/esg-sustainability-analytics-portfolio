@@ -25,7 +25,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 **🖥️ Query**: [1_climate_leaders.sql](/1_climate_leaders.sql)
 
 **📈 Visualization:**
-![Climate Leaders Portfolio](/outputs/visualization_1_climate_leaders.png)
+![Climate Leaders Portfolio](/visualizations/1_visualization_1_climate_leaders.png.png)
 
 📊 **Key Findings:**
 - Austria leads with 96% renewable energy and only 0.75 tCO₂ per capita
