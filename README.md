@@ -22,7 +22,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 - Analyzed renewable energy percentage vs CO₂ emissions per capita for 2020
 - Identified the "sweet spot" quadrant for climate-focused investment
 
-**🖥️ Query**: [1_climate_leaders.sql](/sql_queries/1_climate_leaders.sql)
+**🖥️ Query**: [1_climate_leaders.sql](/1_climate_leaders.sql)
 
 **📈 Visualization:**
 ![Climate Leaders Portfolio](/outputs/visualization_1_climate_leaders.png)
@@ -44,7 +44,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 - Compared top 5 and bottom 5 governance performers
 - Tested hypothesis that stronger governance drives better social outcomes
 
-**🖥️ Query**: [2_governance_social.sql](/sql_queries/2_governance_social.sql)
+**🖥️ Query**: [2_governance_social.sql](/2_governance_social.sql)
 
 **📈 Visualization:**
 ![Governance-Social Correlation](/outputs/visualization_2_governance_social.png)
@@ -67,7 +67,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 - Focused on major emerging markets (Brazil, China, India, Indonesia, Egypt, Argentina, Colombia)
 - Calculated percentage change to identify rapid decarbonizers
 
-**🖥️ Query**: [3_green_transition.sql](/sql_queries/3_green_transition.sql)
+**🖥️ Query**: [3_green_transition.sql](/3_green_transition.sql)
 
 **📈 Visualization:**
 ![Green Transition Slope Chart](/outputs/visualization_3_green_transition.png)
@@ -90,7 +90,7 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 - Calculated transition risk based on regulatory exposure
 - Ranked countries by risk profile for carbon tax sensitivity
 
-**🖥️ Query**: [4_carbon_risk.sql](/sql_queries/4_carbon_risk.sql)
+**🖥️ Query**: [4_carbon_risk.sql](/4_carbon_risk.sql)
 
 **📈 Visualization:**
 ![Carbon Risk Heat Map](/outputs/visualization_4_carbon_risk.png)
@@ -115,13 +115,13 @@ This project analyzes country-level ESG (Environmental, Social, Governance) data
 - Segmented countries into 4 strategic quadrants based on performance relative to global averages
 
 **🖥️ Queries**: 
-- [5a_life_expectancy_governance.sql](/sql_queries/5a_life_expectancy_governance.sql)
-- [5b_education_governance.sql](/sql_queries/5b_education_governance.sql)
+- [5a_life_expectancy_governance.sql](/5a_life_expectancy_governance.sql)
+- [5b_education_governance.sql](/5b_education_governance.sql)
 
 **📈 Visualizations:**
 ![Life Expectancy Matrix](/outputs/visualization_5a_life_strategic_matrix.png)
 ![Education Matrix](/outputs/visualization_5b_education_strategic_matrix.png)
-![Combined Dashboard](/outputs/visualization_5c_combined_dashboard.png)
+
 
 📊 **Key Findings:**
 - **Star Performers** (↑ Governance + ↑ Social): Iran, Finland, Afghanistan
